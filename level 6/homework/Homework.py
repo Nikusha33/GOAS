@@ -20,9 +20,8 @@ print(name, surname, age)
 #დავალება მეხუთე
 mom = int(input("40:"))
 dad = int(input("45:"))
-sister = int(input(":"))
 brother = int(input("28:"))
+
 print(mom + 25)
 print(dad + 25)
-print(sister + 25)
 print(brother + 25)
